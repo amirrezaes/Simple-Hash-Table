@@ -13,5 +13,6 @@ using Linear probing for resolving collisions
 	print(15 in t1)
 	for i in t1:
 		print(i)
+	del t1[0]
 	t1.clear()
 	
